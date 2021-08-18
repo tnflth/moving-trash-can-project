@@ -33,5 +33,5 @@
 
 ## 순서도
 
-![](moving-trash-can-project/images/기술스택.png)
+![](/images/순서도.png)
 
