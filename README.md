@@ -33,5 +33,5 @@
 
 ## 순서도
 
-![](./src/main/webapp/common/readme/기술스택.png)
+![](moving-trash-can-project/images/기술스택.png)
 
